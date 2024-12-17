@@ -118,10 +118,10 @@ The Dream Job Portal is a full-stack application designed to connect job seekers
 ---  
 
 ## Entity-Relationship Diagram (ERD)  
-- Represents relationships between entities like Users, Jobs, Applications, and Feedback.  
+![ERD Diagram](erd.png)
 
 ## Data Flow Diagram (DFD)  
-- Illustrates how data flows between job seekers, recruiters, and admins within the platform.  
+![DFD Diagram](dfd.png)  
 
 ---  
 
